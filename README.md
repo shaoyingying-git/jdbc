@@ -1,2 +1,2 @@
 # mysql
-mysql基础代码
+jdbc 入门基础代码
