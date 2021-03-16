@@ -114,7 +114,7 @@ public class TestJdbc {
             stm1.executeUpdate(sql);
 
             //出现了异常
-            int num = 10/0;
+            //int num = 10/0;
 
             //3.2 李四收款
             String sql2 = "UPDATE account SET balance=balance+500 WHERE id=2";
