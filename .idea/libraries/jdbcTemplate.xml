@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdbcTemplate">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/day19_JDBC元数据&amp;JdbcTemplate/day19_JdbcTemplate_03/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/day19_JDBC元数据&amp;JdbcTemplate/day19_JdbcTemplate_03/lib" recursive="false" />
+  </library>
+</component>
